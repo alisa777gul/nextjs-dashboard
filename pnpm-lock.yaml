@@ -5,8 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 importers:
-
-  .:
+  
     dependencies:
       '@heroicons/react':
         specifier: ^2.2.0
